@@ -1,0 +1,23 @@
+
+img{
+    border: 10px solid green;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+    width: 500px;
+  }
+  html{
+    background-color: black;
+    font-size:xx-large;
+  }
+  h1{
+    color: yellow;
+    text-align: center;
+    font-family: 'Sigmar', cursive;
+  }
+  p{
+    color: yellow;
+    text-align: center;
+    font-family: 'Sigmar', cursive;
+  }
